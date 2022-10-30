@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Green forests of Atlantico",
+    "description": "Description of Green forests",
+    "projectState": "Created"
+  },
+  {
+    "name": "Green seagrass of Bahamas",
+    "description": "Description of Green seagrass",
+    "projectState": "Approved"
+  },
+  {
+    "name": "Reforestation of Brazil",
+    "description": "Description of Reforestation",
+    "projectState": "Published"
+  },
+  {
+    "name": "Blue ocean of Atlantico",
+    "description": "Description of Blue Ocean",
+    "projectState": "Created"
+  },
+  {
+    "name": "Blue seagrass of Bahamas",
+    "description": "Description of Blue seagrass",
+    "projectState": "Created"
+  }
+]
