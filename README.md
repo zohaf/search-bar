@@ -4,7 +4,7 @@ This is a Next.js project, with Typescript, Tailwind and React Context.
 
 ### How to run this project on your machine?
 
-1: Clone this repository on to your local machine. [more information](https://support.atlassian.com/bitbucket-cloud/docs/clone-a-git-repository/)
+1: Clone this repository on to your local machine. [more information](https://support.atlassian.com/bitbucket-cloud/docs/clone-a-git-repository/) If you have downloaded this project, ignore this step.
 
 2: Install all the packages with:
 
